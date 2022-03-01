@@ -33,3 +33,5 @@
 
 # Of the total U.S. population, 8.56% resides in Texas
 print("Of the total U.S. population, {0:.2%} of households resides in {1:s}".format(26448000/309000000))
+
+
